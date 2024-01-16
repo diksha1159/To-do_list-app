@@ -7,7 +7,7 @@ body {
     background-image: url(bg.webp);
     background-size: cover;
     color: black;
-    display: flex;
+    position: relative;
     justify-content: center;
     align-items: center;
     height: 67vh;
@@ -19,7 +19,7 @@ body {
     background: rgba(255, 255, 255, 0.8); /* Transparent white background */
     height: 353px;
     overflow: hidden;
-    position: relative;
+    position: absolute;
     border-radius: 10px; /* Add rounded corners to the container */
 }
 
