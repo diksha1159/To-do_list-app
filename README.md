@@ -64,7 +64,9 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 Diksha Jadhav
-![Cat Saying Bye](https://i.pinimg.com/564x/fd/1c/d3/fd1cd3deb21a7a64c6fe40a3a0fba86f.jpg)
 
 ---
+
+![Cat Saying Bye](https://i.pinimg.com/564x/fd/1c/d3/fd1cd3deb21a7a64c6fe40a3a0fba86f.jpg)
+
 
